@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Hasil produksi & runtime (bukan bagian kode)
+output/
+kartu-kartu/
+*.log
+status.json
+arsip.json
+
+# Rahasia
+.env
+.env.*
+*.key
+token.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

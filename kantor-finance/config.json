@@ -1,0 +1,147 @@
+{
+  "nama_kantor": "Kantor Berita Finance",
+  "zona_waktu": "Asia/Jakarta",
+  "model_default": "homres",
+  "jumlah_headline": 18,
+  "output_dir": "output",
+  "feeds": [
+    {
+      "nama": "CNBC Indonesia - Market",
+      "url": "https://www.cnbcindonesia.com/market/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "CNBC Indonesia - News",
+      "url": "https://www.cnbcindonesia.com/news/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "CNBC Indonesia - Syariah",
+      "url": "https://www.cnbcindonesia.com/syariah/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Detik Finance",
+      "url": "https://finance.detik.com/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Antara Ekonomi",
+      "url": "https://www.antaranews.com/rss/ekonomi.xml",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Katadata",
+      "url": "https://katadata.co.id/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "IDX Channel",
+      "url": "https://www.idxchannel.com/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Liputan6 Bisnis",
+      "url": "https://feed.liputan6.com/rss/bisnis",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Republika Ekonomi",
+      "url": "https://www.republika.co.id/rss/ekonomi",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "Warta Ekonomi",
+      "url": "https://www.wartaekonomi.co.id/rss",
+      "wilayah": "indonesia"
+    },
+    {
+      "nama": "BBC Business",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "wilayah": "global"
+    },
+    {
+      "nama": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "wilayah": "global",
+      "umum": true
+    },
+    {
+      "nama": "SCMP Business",
+      "url": "https://www.scmp.com/rss/92/feed",
+      "wilayah": "global"
+    },
+    {
+      "nama": "CNA",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml",
+      "wilayah": "asean",
+      "umum": true
+    },
+    {
+      "nama": "Straits Times Business",
+      "url": "https://www.straitstimes.com/news/business/rss.xml",
+      "wilayah": "asean",
+      "umum": true
+    },
+    {
+      "nama": "VnExpress Business",
+      "url": "https://e.vnexpress.net/rss/business.rss",
+      "wilayah": "asean"
+    },
+    {
+      "nama": "Euronews Business",
+      "url": "https://www.euronews.com/rss?level=theme&name=business",
+      "wilayah": "eropa"
+    },
+    {
+      "nama": "The Guardian Business",
+      "url": "https://www.theguardian.com/uk/business/rss",
+      "wilayah": "eropa"
+    },
+    {
+      "nama": "DW Business",
+      "url": "https://rss.dw.com/xml/rss-en-bus",
+      "wilayah": "eropa"
+    },
+    {
+      "nama": "NYT Business",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+      "wilayah": "amerika"
+    },
+    {
+      "nama": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/rssindex",
+      "wilayah": "amerika"
+    },
+    {
+      "nama": "CNBC US Business",
+      "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
+      "wilayah": "amerika"
+    },
+    {
+      "nama": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/feed",
+      "wilayah": "arab",
+      "umum": true
+    },
+    {
+      "nama": "AGBI",
+      "url": "https://www.agbi.com/feed/",
+      "wilayah": "arab"
+    },
+    {
+      "nama": "Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/feed/",
+      "wilayah": "arab",
+      "umum": true
+    }
+  ],
+  "max_tokens": {
+    "riset": 900,
+    "analis": 1300,
+    "penulis": 2200,
+    "editor": 2200,
+    "verifikator": 1200,
+    "penerbit": 900
+  }
+}
